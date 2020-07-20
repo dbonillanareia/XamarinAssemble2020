@@ -1,1 +1,3 @@
-# XamarinAssemble2020
+# Xamarin Assemble 2020
+
+https://xamarinassemble.com
